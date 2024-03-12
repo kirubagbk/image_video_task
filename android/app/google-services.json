@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566081636212",
+    "project_id": "image-video-task",
+    "storage_bucket": "image-video-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566081636212:android:34e9f0735eeca2cb7f8e21",
+        "android_client_info": {
+          "package_name": "com.example.image_vide0_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQV6QJTDMhBp9E8TYdTWEnYKHiLhNniyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
